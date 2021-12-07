@@ -8,7 +8,7 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Driver License',
+    name: 'Driver License sdfsaf',
     description: '......',
     attribute: ['lname', 'fname', 'expirationDate', 'DOB'],
   },
