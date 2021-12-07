@@ -9,23 +9,22 @@ export const products = [
   {
     id: 1,
     name: 'Driver License',
-    description: 'A large phone with one of the best screens',
-    attribute: ['lname', 'fname', 'expirationDate', 'DOB']
+    description: '......',
+    attribute: ['lname', 'fname', 'expirationDate', 'DOB'],
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'RTW',
+    description: '......',
+    attribute: ['lname', 'fname', 'expirationDate', 'DOB'],
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
-  }
+    name: 'Insurance',
+    description: '......',
+    attribute: ['lname', 'fname', 'expirationDate', 'DOB'],
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
